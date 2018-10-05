@@ -26,12 +26,12 @@ Work experience
 * **Siemens Corporate Technology**, Germany  
 *Research Group Machine Intelligence*
   * researcher, 12, 2016--present
-    - machine learning, especially deep reinforcement learning in robotics and dialog agents (advisor: Prof. Volker Tresp)
+    - machine learning, especially deep reinforcement learning in robotics and dialog agents (advisor: Volker Tresp)
 
 * **German Aerospace Center (DLR)**, Germany  
 *Institute of Robotics and Mechatronics*
   * researcher, 04, 2016--10. 2016
-    - persons activity recognition in RGBD using deep learning (advisor: Dr. Haider Ali & Prof. Patrick van der Smagt)
+    - persons activity recognition in RGBD using deep learning (advisor: Haider Ali & Patrick van der Smagt)
   
 <!-- Skills
 ======
