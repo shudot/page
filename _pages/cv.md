@@ -9,23 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
+Ph.D. Cognitive Deep Reinforcement Learning, Computer Science, Ludwig Max- imilian University of Munich; Machine Intelligence, Siemens AG, Munich, Germany. Specialized in Deep Reinforcement learning, Machine Learning, Robotics, Dialog Agent,
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Ludwig Maximilian University of Munich & Siemens AG**, Germany
+  - PhD in Cognitive Deep Reinforcement Learning, Computer Science, 12, 2016--present
+* **Technical University of Munich**, Germany
+  - MSc in Robotics, Cognition, Intelligence, Computer Science, 10, 2014--10, 2016
+* **Munich University of Applied Sciences**, Germany
+  - BSc in Mechatronics, (double-degree program), 10, 2013--10, 2014
+* **Tongji University**, China
+  - BSc in Mechatronics, (double-degree program), 09, 2010--09, 2013
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Siemens Corporate Technology**, Germany  
+*Research Group Machine Intelligence*
+  * researcher, 12, 2016--present
+    - cognitive deep reinforcement learning (advisor: Prof. Volker Tresp)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **German Aerospace Center (DLR)**, Germany  
+*Institute of Robotics and Mechatronics*
+  * researcher, 04, 2016--10. 2016
+    - persons activity recognition in RGBD using deep learning (advisor: Dr. Haider Ali & Prof. Patrick van der Smagt)
   
 Skills
 ======
