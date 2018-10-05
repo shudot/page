@@ -2,6 +2,7 @@
 title: "Two-Stream RNN/CNN for Action Recognition in 3D Videos"
 collection: publications
 permalink: /publication/001-two-stream
+excerpt:
 date: 2017-09-24
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://arxiv.org/pdf/1703.09783.pdf'

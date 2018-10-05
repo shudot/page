@@ -2,6 +2,7 @@
 title: "Efficient Dialog Policy Learning via Positive Memory Retention"
 collection: publications
 permalink: /publication/003-positive-memory-retention
+excerpt:
 date: 2018-12-18
 venue: 'IEEE Spoken Language Technology (SLT) (forthcoming)'
 paperurl: 'https://arxiv.org/pdf/1810.01371.pdf'
