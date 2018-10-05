@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Ph.D. Cognitive Deep Reinforcement Learning, Computer Science, Ludwig Max- imilian University of Munich; Machine Intelligence, Siemens AG, Munich, Germany. Specialized in Deep Reinforcement learning, Machine Learning, Robotics, Dialog Agent,
-
 Education
 ======
 * **Ludwig Maximilian University of Munich**, Germany
