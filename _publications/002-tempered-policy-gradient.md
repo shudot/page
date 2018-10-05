@@ -2,7 +2,7 @@
 title: "Learning Goal-Oriented Visual Dialog via Tempered Policy Gradient"
 collection: publications
 permalink: /publication/002-tempered-policy-gradient
-excerpt:
+excerpt:''
 date: 2018-12-18
 venue: 'IEEE Spoken Language Technology (SLT) (forthcoming)'
 paperurl: 'https://arxiv.org/pdf/1807.00737.pdf'
