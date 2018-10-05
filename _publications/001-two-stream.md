@@ -3,7 +3,7 @@ title: "Two-Stream RNN/CNN for Action Recognition in 3D Videos"
 collection: publications
 permalink: /publication/001-two-stream
 date: 2017-09-24
-venue: '2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
+venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://arxiv.org/pdf/1703.09783.pdf'
 ---
 The recognition of actions from video sequences has many applications in health monitoring, assisted living, surveillance, and smart homes. Despite advances in sensing, in particular related to 3D video, the methodologies to process the data are still subject to research. We demonstrate superior results by a system which combines recurrent neural networks with convolutional neural networks in a voting approach. The gated-recurrent-unit-based neural networks are particularly well-suited to distinguish actions based on long-term information from optical tracking data; the 3D-CNNs focus more on detailed, recent information from video data. The resulting features are merged in an SVM which then classifies the movement. In this architecture, our method improves recognition rates of state-of-the-art methods by 14% on standard data sets.
