@@ -13,7 +13,7 @@ Ph.D. Cognitive Deep Reinforcement Learning, Computer Science, Ludwig Max- imili
 
 Education
 ======
-* **Ludwig Maximilian University of Munich & Siemens AG**, Germany
+* **Ludwig Maximilian University of Munich**, Germany
   - PhD in Cognitive Deep Reinforcement Learning, Computer Science, 12, 2016--present
 * **Technical University of Munich**, Germany
   - MSc in Robotics, Cognition, Intelligence, Computer Science, 10, 2014--10, 2016
