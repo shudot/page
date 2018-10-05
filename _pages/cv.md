@@ -28,7 +28,7 @@ Work experience
 * **Siemens Corporate Technology**, Germany  
 *Research Group Machine Intelligence*
   * researcher, 12, 2016--present
-    - cognitive deep reinforcement learning (advisor: Prof. Volker Tresp)
+    - machine learning, especially deep reinforcement learning in robotics and dialog agents (advisor: Prof. Volker Tresp)
 
 * **German Aerospace Center (DLR)**, Germany  
 *Institute of Robotics and Mechatronics*
