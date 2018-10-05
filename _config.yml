@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Rui Zhao"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "PhD Student | Machine Learning, Reinforcement Learning, Robotics"
   location         : "Munich, Germany"
   employer         :
