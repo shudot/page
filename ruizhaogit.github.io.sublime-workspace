@@ -1,0 +1,523 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"y",
+				"Y_pred_ind"
+			],
+			[
+				"thre",
+				"threshold_value"
+			],
+			[
+				"pred",
+				"pred_average"
+			],
+			[
+				"re",
+				"repeat"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"key",
+				"keys"
+			],
+			[
+				"z",
+				"zeros"
+			],
+			[
+				"env",
+				"env_name"
+			],
+			[
+				"pe",
+				"pearson_correlation"
+			],
+			[
+				"for",
+				"format"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/luajit.sublime-build",
+					""
+				],
+				[
+					"Packages/User/qlua.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/luajit.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "upgra",
+		"selected_items":
+		[
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Packages",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ruizhao/workspace/ruizhaogit.github.io"
+	],
+	"file_history":
+	[
+		"/Users/ruizhao/workspace/EnergyBasedPrioritization/baselines/her/experiment/train.py",
+		"/Users/ruizhao/workspace/EnergyBasedPrioritization/baselines/her/experiment/config.py",
+		"/Users/ruizhao/workspace/EnergyBasedPrioritization/baselines/her/util.py",
+		"/Users/ruizhao/workspace/EnergyBasedPrioritization/baselines/her/rollout.py",
+		"/Users/ruizhao/workspace/EnergyBasedPrioritization/baselines/her/replay_buffer.py",
+		"/Users/ruizhao/workspace/EnergyBasedPrioritization/baselines/her/normalizer.py",
+		"/Users/ruizhao/workspace/EnergyBasedPrioritization/baselines/her/her.py",
+		"/Users/ruizhao/workspace/EnergyBasedPrioritization/baselines/her/ddpg.py",
+		"/Users/ruizhao/workspace/EnergyBasedPrioritization/baselines/her/actor_critic.py",
+		"/Users/ruizhao/workspace/EnergyBasedPrioritization/LICENSE",
+		"/Users/ruizhao/workspace/EnergyBasedPrioritization/README.md",
+		"/Users/ruizhao/workspace/EnergyBasedPrioritization/setup.py",
+		"/Users/ruizhao/workspace/EnergyBasedPrioritization/baselines/her/experiment/play.py",
+		"/Users/ruizhao/workspace/PositiveMemoryRetention/README.md",
+		"/Users/ruizhao/.bash_profile",
+		"/Users/ruizhao/workspace/curiosity-driven-prioritization/baselines/her/experiment/train.py",
+		"/Users/ruizhao/workspace/transition-energy/baselines/her/experiment/plot.py",
+		"/Users/ruizhao/workspace/curiosity-driven-prioritization/baselines/her/experiment/plot.py",
+		"/Users/ruizhao/Dropbox/应用/Texpad/corl-18/buffer.txt",
+		"/Users/ruizhao/workspace/curiosity-driven-prioritization/baselines/her/experiment/plot_efficiency_new.py",
+		"/Users/ruizhao/Dropbox/应用/Texpad/iclr-2019/notes.txt",
+		"/Users/ruizhao/Dropbox/应用/Texpad/iclr-2019/buffer.txt",
+		"/Users/ruizhao/workspace/curiosity-driven-prioritization/baselines/her/train_Gaussian mixture models.py",
+		"/Users/ruizhao/workspace/curiosity-driven-prioritization/baselines/her/replay_buffer.py",
+		"/Users/ruizhao/workspace/transition-energy/baselines/her/experiment/plot-energy-tderror.py",
+		"/Users/ruizhao/workspace/curiosity-driven-prioritization/baselines/her/experiment/plot-energy-tderror.py",
+		"/Users/ruizhao/workspace/transition-energy/baselines/her/experiment/plot_efficiency.py",
+		"/Users/ruizhao/workspace/curiosity-driven-prioritization/README.md",
+		"/Users/ruizhao/workspace/cher/baselines/her/experiment/plot.py",
+		"/Users/ruizhao/workspace/openai_baselines/baselines/her/experiment/plot.py",
+		"/Users/ruizhao/workspace/x270/cmd_macos.txt",
+		"/Users/ruizhao/workspace/x270/cmd_ubuntu.txt",
+		"/Users/ruizhao/workspace/curiosity-driven-prioritization/baselines/her/ddpg.py",
+		"/Users/ruizhao/workspace/curiosity-driven-prioritization/baselines/her/actor_critic.py",
+		"/Users/ruizhao/workspace/curiosity-driven-prioritization/baselines/her/experiment/config.py",
+		"/Users/ruizhao/workspace/curiosity-driven-prioritization/baselines/her/util.py",
+		"/Users/ruizhao/workspace/curiosity-driven-prioritization/baselines/her/her.py",
+		"/Users/ruizhao/workspace/transition-energy/baselines/her/experiment/train.py",
+		"/Users/ruizhao/workspace/transition-energy/baselines/her/her.py",
+		"/Users/ruizhao/Downloads/plot_gmm_pdf.py",
+		"/Users/ruizhao/.config/xm1/texmaker.ini",
+		"/Users/ruizhao/.config/xm1/texmaker_solarized_dark.ini",
+		"/Users/ruizhao/workspace/transition-energy/README.md",
+		"/Users/ruizhao/workspace/gym/gym/envs/classic_control/pendulum.py",
+		"/Users/ruizhao/workspace/curiosity-driven-prioritization/baselines/her/rollout.py",
+		"/Users/ruizhao/workspace/gym/gym/envs/robotics/robot_env.py",
+		"/Users/ruizhao/workspace/gym/gym/envs/robotics/fetch_env.py",
+		"/Users/ruizhao/workspace/learn-to-prioritize/baselines/her/util.py",
+		"/Users/ruizhao/workspace/gym/gym/core.py",
+		"/Users/ruizhao/workspace/learn-to-prioritize/baselines/her/train_prioritizing_network.py",
+		"/Users/ruizhao/workspace/GuessWhat-TemperedPolicyGradient/README.md",
+		"/Users/ruizhao/workspace/x270/aws/.bashrc",
+		"/Users/ruizhao/workspace/curiosity-driven-prioritization/buffer_epoch_1.txt",
+		"/Users/ruizhao/workspace/curiosity-driven-prioritization/buffer_epoch_0.txt",
+		"/Users/ruizhao/workspace/learn-to-prioritize/baselines/her/experiment/plot.py",
+		"/Users/ruizhao/workspace/learn-to-prioritize/baselines/her/replay_buffer.py",
+		"/Users/ruizhao/workspace/learn-to-prioritize/baselines/her/plot_gmm_pdf.py",
+		"/Users/ruizhao/workspace/learn-to-prioritize/baselines/her/train_Gaussian mixture models.py",
+		"/Users/ruizhao/workspace/learn-to-prioritize/baselines/her/experiment/config.py",
+		"/Users/ruizhao/Dropbox/应用/Texpad/icra-2019/README.md",
+		"/Users/ruizhao/workspace/transition-energy/baselines/her/util.py",
+		"/Users/ruizhao/workspace/learn-to-prioritize/baselines/common/mpi_adam.py",
+		"/Users/ruizhao/workspace/learn-to-prioritize/baselines/her/ddpg.py",
+		"/Users/ruizhao/workspace/learn-to-prioritize/README.md",
+		"/Users/ruizhao/workspace/learn-to-prioritize/baselines/her/experiment/train.py",
+		"/Users/ruizhao/workspace/learn-to-prioritize/baselines/her/her.py",
+		"/Users/ruizhao/.bashrc",
+		"/Users/ruizhao/workspace/x270/mac_os/.bash_profile",
+		"/Users/ruizhao/workspace/learn-to-prioritize/baselines/her/test_prioritizing_network.py",
+		"/Users/ruizhao/workspace/learn-to-prioritize/baselines/her/pearson.py",
+		"/Users/ruizhao/anaconda3/lib/python3.5/site-packages/tensorflow/python/keras/layers/convolutional_recurrent.py",
+		"/Users/ruizhao/workspace/keras/keras/layers/recurrent.py",
+		"/Users/ruizhao/workspace/x270/tmux_build.sh",
+		"/Users/ruizhao/.tmux.conf",
+		"/Users/ruizhao/.vimrc",
+		"/Users/ruizhao/anaconda3/lib/python3.5/site-packages/tensorflow/python/keras/activations.py",
+		"/Users/ruizhao/workspace/transition-energy/time.txt",
+		"/Users/ruizhao/workspace/learn-to-prioritize/time.txt",
+		"/Users/ruizhao/workspace/transition-energy/.gitignore",
+		"/Users/ruizhao/anaconda3/lib/python3.5/site-packages/tensorflow/python/ops/gen_nn_ops.py",
+		"/Users/ruizhao/workspace/tflearn/tflearn/objectives.py",
+		"/Users/ruizhao/workspace/tflearn/tflearn/activations.py",
+		"/Users/ruizhao/workspace/tflearn/examples/nlp/lstm.py",
+		"/Users/ruizhao/workspace/tflearn/build/lib/tflearn/activations.py",
+		"/Users/ruizhao/anaconda3/lib/python3.5/site-packages/tensorflow/include/tensorflow/core/graph/testlib.h",
+		"/Users/ruizhao/anaconda3/lib/python3.5/site-packages/gym/envs/registration.py",
+		"/Users/ruizhao/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/ruizhao/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ruizhao/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"FetchPickAndPlace",
+			"- ",
+			"nanmean",
+			"median",
+			"mean",
+			"- ",
+			"- t",
+			"- ",
+			"- f",
+			"- ",
+			"110200",
+			"214700",
+			"304000",
+			"313500",
+			"189",
+			"334400",
+			"224200",
+			"201",
+			"999",
+			"345800",
+			"319200",
+			"345800",
+			"319200",
+			"345800",
+			"319200",
+			"755",
+			"54",
+			"133000",
+			"378100",
+			"393",
+			"median",
+			")))",
+			"np.max(",
+			"nanmedian",
+			"median",
+			"48000",
+			"98000",
+			"93100",
+			"938",
+			"print",
+			"\"en ",
+			"en",
+			"EBP",
+			"HER",
+			"env_id",
+			"HER",
+			"== ",
+			"if ",
+			"    if env_id == ",
+			"seed",
+			"curiosity",
+			"ddpg_none",
+			"110200",
+			"3627300",
+			"88",
+			"374300",
+			"29",
+			"214700",
+			"355300",
+			"745",
+			"264100",
+			"82",
+			"336300",
+			"258400",
+			"203",
+			"362900",
+			"185",
+			"252700",
+			"50000",
+			"94",
+			"55000",
+			"57000",
+			"41800",
+			"83000",
+			"79800",
+			"curiosity_mode",
+			"xs",
+			"cp -r",
+			"Color",
+			"HandManipulateBlockFull",
+			"seed",
+			"PickAndPlace",
+			"FetchPush",
+			"td_error_tf",
+			"seed",
+			"PickAndPlace",
+			"FetchPickAndPlace",
+			"Pendulum",
+			"future",
+			"50",
+			"False",
+			"none",
+			"if replay_str",
+			"replay_strategy",
+			"future_p",
+			"pred_balance",
+			"pred_old",
+			"HandManipulateBlockFull",
+			"time",
+			"angle_normalize",
+			"angles",
+			"reward",
+			"[:,-50:-1,:]",
+			"[-1]",
+			"self.render",
+			"ag_2",
+			"step",
+			"is_sucess",
+			"envs[i].step",
+			"distance_threshold",
+			"_is_success",
+			"wrap_pendulum_obs",
+			"env",
+			"none",
+			"HandManipulateBlockFull",
+			"FetchPickAndPlace",
+			"version 2",
+			"sea",
+			"seaborn",
+			"ag",
+			"seed",
+			"tderror",
+			"curiosity",
+			"i-0995c7aab99c42df4",
+			"c2-52-215-138-169.eu-west-1.compute.amazonaws.com",
+			"HandReach",
+			"ag",
+			"seed_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ruizhaogit.github.io.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 47.0,
+		"last_filter": "reward_fun",
+		"selected_items":
+		[
+			[
+				"reward_fun",
+				"reward_fun"
+			],
+			[
+				"Pendulum",
+				"PendulumEnv"
+			],
+			[
+				"compute_reward",
+				"compute_reward"
+			],
+			[
+				"step",
+				"step"
+			],
+			[
+				"reset",
+				"reset"
+			],
+			[
+				"sync",
+				"sync"
+			],
+			[
+				"_sync_optimizers",
+				"_sync_optimizers"
+			],
+			[
+				"sample_batch",
+				"sample_batch"
+			],
+			[
+				"stage_batch",
+				"stage_batch"
+			],
+			[
+				"kernel_initializer",
+				"kernel_initializer"
+			],
+			[
+				"LSTM",
+				"LSTM"
+			],
+			[
+				"sigmoid",
+				"sigmoid"
+			],
+			[
+				"softmax_cross_entropy_with_logits",
+				"softmax_cross_entropy_with_logits"
+			],
+			[
+				"softmax",
+				"softmax"
+			],
+			[
+				"relu6",
+				"Relu6"
+			],
+			[
+				"categorical_crossentropy",
+				"categorical_crossentropy"
+			]
+		],
+		"width": 422.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
