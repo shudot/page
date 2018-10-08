@@ -2,7 +2,10 @@
 title: "Energy-Based Hindsight Experience Prioritization"
 collection: publications
 permalink: /publication/004-energy-based-prioritization
-excerpt: ''
+excerpt: '
+<p align="left">
+  <img width="500" height="" src="/images/004-energy-based-prioritization.png">
+</p>'
 date: 2018-12-29
 venue: 'Accepted by Conference on Robot Learning (CoRL) as oral presentation (7%)'
 paperurl: 'https://arxiv.org/pdf/1810.01363.pdf'
