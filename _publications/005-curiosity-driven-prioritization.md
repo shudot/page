@@ -3,7 +3,7 @@ title: "Curiosity-Driven Experience Prioritization via Density Estimation"
 collection: publications
 permalink: /publication/004-curiosity-driven-prioritization
 excerpt: '
-<p align="center">
+<p align="left">
   <img width="500" height="" src="/images/500x300.png">
 </p>'
 date: 2019-05-06
