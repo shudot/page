@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/002-tempered-policy-gradient
 excerpt: ''
 date: 2018-12-18
-venue: 'Accepted by IEEE Spoken Language Technology (SLT)
+venue: 'Accepted by IEEE Spoken Language Technology (SLT)<br/>
         Presented at IJCAI 2018 workshop Linguistic and Cognitive Approaches To Dialog Agents'
 paperurl: 'https://arxiv.org/pdf/1807.00737.pdf'
 ---
