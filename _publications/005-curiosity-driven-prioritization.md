@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/004-curiosity-driven-prioritization
 excerpt: '
 <p align="center">
-  <img width="600" height="" src="https://github.com/ruizhaogit/MNIST-GuessNumber/blob/master/guess_number.png">
+  <img width="500" height="" src="/images/500x300.png">
 </p>'
 date: 2019-05-06
 venue: 'Under review at International Conference on Learning Representations (ICLR)'
