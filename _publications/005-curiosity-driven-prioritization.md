@@ -2,7 +2,10 @@
 title: "Curiosity-Driven Experience Prioritization via Density Estimation"
 collection: publications
 permalink: /publication/004-curiosity-driven-prioritization
-excerpt: ''
+excerpt: '
+<p align="center">
+  <img width="600" height="" src="https://github.com/ruizhaogit/MNIST-GuessNumber/blob/master/guess_number.png">
+</p>'
 date: 2019-05-06
 venue: 'Under review at International Conference on Learning Representations (ICLR)'
 paperurl: 'https://openreview.net/pdf?id=SklXvs0qt7'
