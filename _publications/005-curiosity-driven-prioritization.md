@@ -1,8 +1,11 @@
 ---
 title: "Curiosity-Driven Experience Prioritization via Density Estimation"
 collection: publications
-permalink: /publication/004-curiosity-driven-prioritization
-excerpt: ''
+permalink: /publication/005-curiosity-driven-prioritization
+excerpt: '
+<p align="left">
+  <img width="500" height="" src="/images/005-curiosity-driven-prioritization.png">
+</p>'
 date: 2019-05-06
 venue: 'Under review at International Conference on Learning Representations (ICLR)'
 paperurl: 'https://openreview.net/pdf?id=SklXvs0qt7'
