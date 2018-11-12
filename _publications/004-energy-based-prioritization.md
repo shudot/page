@@ -6,7 +6,7 @@ excerpt: '
 <p align="left">
   <img width="500" height="" src="/images/004-energy-based-prioritization.png">
 </p>'
-date: 2018-12-29
+date: 2018-12-24
 venue: 'Published in Conference on Robot Learning (CoRL) as <span style="color:red">oral presentation</span> (7%), 2018<br/>
         Proceedings of  Machine Learning Research Volume 87'
 paperurl: 'http://proceedings.mlr.press/v87/zhao18a.html'
