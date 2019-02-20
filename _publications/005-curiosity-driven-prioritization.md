@@ -7,7 +7,7 @@ excerpt: '
   <img width="500" height="" src="/images/005-curiosity-driven-prioritization.png">
 </p>'
 date: 2018-12-25
-venue: 'Under review at International Conference on Learning Representations (ICLR), 2019<br/>
+venue: 'Under review at a Conference, 2019<br/>
         Accepted by NIPS Deep Reinforcement Learning Workshop'
 paperurl: 'https://openreview.net/pdf?id=SklXvs0qt7'
 ---
