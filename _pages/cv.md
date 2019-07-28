@@ -23,14 +23,19 @@ Education
 
 Work experience
 ======
-* **Siemens Corporate Technology**, Germany  
+* **Horizon Robotics Inc.**, Cupertino, CA, United States  
+*General Artificial Intelligence Lab*
+  * researcher, 06. 2019--11. 2019
+    - deep reinforcement learning in robotics
+
+* **Siemens Corporate Technology**, Munich, BY, Germany  
 *Research Group Machine Intelligence*
-  * researcher, 12, 2016--present
+  * researcher, 12. 2016--present
     - machine learning, especially deep reinforcement learning in robotics and dialog agents
 
-* **German Aerospace Center (DLR)**, Germany  
+* **German Aerospace Center (DLR)**, Weßling, BY, Germany  
 *Institute of Robotics and Mechatronics*
-  * researcher, 04, 2016--10. 2016
+  * researcher, 04. 2016--10. 2016
     - persons activity recognition in RGBD using deep learning
   
 <!-- Skills
